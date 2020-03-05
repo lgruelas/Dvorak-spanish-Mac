@@ -14,4 +14,4 @@ If you are a Linux user that is used to do `setxkbmap 'dvorak' 'es'` this is for
 
 ## Instalation
 
-Just clone the repo into your local and paste the content into `/Library/Keyboard\ Layout/dvorak-spanish.bundle/ 
+Just clone the repo into your local and paste the content into `/Library/Keyboard\ Layout/dvorak-spanish.bundle/`
