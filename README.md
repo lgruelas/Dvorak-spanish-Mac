@@ -12,6 +12,6 @@ For some reason, Mac doesn't have a built in dvorak layout for spanish speakers,
 
 If you are a Linux user that is used to do `setxkbmap 'dvorak' 'es'` this is for you.
 
-## Instalation
+## Install
 
 Just clone the repo into your local and paste the content into `/Library/Keyboard\ Layout/dvorak-spanish.bundle/`
